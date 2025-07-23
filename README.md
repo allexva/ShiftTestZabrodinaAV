@@ -11,8 +11,9 @@
 --------------------------
 
 <br>
-To run the utility, run the command prompt inside the directory ShiftTestZabrodinaAV. <br>
+To run the utility, run the command prompt or bash inside the directory ShiftTestZabrodinaAV. <br>
 Then enter: <br>
+<b>mvn clean package</b><br>
 <b>java -jar target/ShiftTestZabrodinaAV-1.0-SNAPSHOT.jar</b><br><br>
 
 
